@@ -1,2 +1,2 @@
 # Flutter-projects
-Creating over apps with fully customize functionality in flutter framework
+Creating apps with fully custom functionality  in flutter framework
